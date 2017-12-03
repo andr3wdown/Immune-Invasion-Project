@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 30db797a1dcd18a418358e4bc4a245f8
+timeCreated: 1512321918
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Aramayka
+  fontNames:
+  - Aramayka
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

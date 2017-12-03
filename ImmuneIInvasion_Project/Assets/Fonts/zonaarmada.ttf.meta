@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: a2bcaa1f310a2764a98d79de9d832a6f
+timeCreated: 1512300144
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Zona Armada
+  fontNames:
+  - Zona Armada
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
